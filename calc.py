@@ -1,2 +1,1 @@
-"wecome to ethans"
-"welcome to baner"
+"amit is a good boy"
